@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Buy some good stuff</string>
+    <string name="sale_button">Sale</string>
+    <string name="new_product">Add new item</string>
+    <string name="quantity_hint">A lot</string>
+    <string name="price_hint">Actually quite cheap</string>
+    <string name="food_name_hint">Beans are crazy</string>
+    <string name="hint_email_address">vendor@farm.com</string>
+    <string name="supplier_email_title">Supplier E-mail Address</string>
+    <string name="supplier_phone_hint">e.g. +39 000-000-000</string>
+    <string name="supplier_phone_title">Supplier Phone</string>
+    <string name="supplier_name_hint">Vegan Protein company</string>
+    <string name="supplier_name_title">Name</string>
+    <string name="quantity_title">Quantity</string>
+    <string name="unit_price">unit price</string>
+    <string name="stock_quantity">in stock</string>
+    <string name="price_title">Price</string>
+    <string name="product_name_title">Food Name</string>
+    <string name="currency_details">€ / item</string>
+    <string name="action_save">Save item</string>
+    <string name="editor_activity_title_new_item">Add new item</string>
+    <string name="editor_activity_title_edit_item">Edit item</string>
+    <string name="menu_order_item">Order</string>
+    <string name="menu_delete_item">Delete</string>
+    <string name="menu_delete_all_data">Delete all</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="order_message">Place an order</string>
+    <string name="delete_message">Are you sure?</string>
+    <string name="delete">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_list_hint">Top up your inventory</string>
+    <string name="action_add_dummy_data">Dummy Data</string>
+    <string name="select_image">Select image</string>
+    <string name="image">Image</string>
+    <string name="unsaved_changes_dialog_msg">Discard unsaved changes?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+
+</resources>
